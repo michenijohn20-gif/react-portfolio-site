@@ -19,7 +19,7 @@ A responsive React single page application that allows users to add, view, searc
 - `ProjectList` - Displays all matching projects
 - `ProjectCard` - Displays individual project details
 
-## Technologies Used
+### Technologies Used
 
 - React
 - Vite
